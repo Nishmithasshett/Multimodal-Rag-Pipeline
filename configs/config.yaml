@@ -1,0 +1,17 @@
+# RAG Pipeline Configuration
+
+embedding:
+  model: "all-MiniLM-L6-v2"
+  dimension: 384
+
+chunking:
+  chunk_size: 500
+  chunk_overlap: 50
+
+retrieval:
+  top_k: 5
+  use_web_search: true
+
+milvus:
+  collection_name: "multimodal_rag"
+  uri: "./milvus_lite.db"

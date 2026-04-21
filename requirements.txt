@@ -1,0 +1,15 @@
+# Core dependencies
+pymilvus[milvus-lite]>=2.3.0
+sentence-transformers>=2.2.0
+langchain>=0.1.0
+langchain-community>=0.0.20
+
+# Document processing
+pypdf>=3.0.0
+python-docx>=0.8.11
+unstructured>=0.10.0
+pillow>=10.0.0
+markdown>=3.4.0
+
+# Additional utilities
+numpy>=1.24.0

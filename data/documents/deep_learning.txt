@@ -1,0 +1,13 @@
+Deep Learning Fundamentals
+
+Deep learning is based on artificial neural networks inspired by the human brain.
+
+Key components:
+- Neural Networks
+- Activation Functions
+- Backpropagation
+- Optimization
+
+Popular architectures:
+CNNs for images
+RNNs for sequences
